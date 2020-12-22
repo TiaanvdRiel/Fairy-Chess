@@ -1,0 +1,20 @@
+% This is a perfectly legal board file
+r:2
+k:1
+n:2
+b:4
+q:1
+p:10
+-----
+r . . . . k . . . r
+p p p p p p p p p p
+. n b b q . b b n .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. N B B Q . B B N .
+P P P P P P P P P P
+R . . . . K . . . R
+-----
+w:++++:0:0
